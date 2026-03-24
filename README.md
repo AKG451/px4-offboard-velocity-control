@@ -6,6 +6,15 @@ Standard UAV waypoint navigation typically relies on Ground Control Stations (GC
 
 This repository demonstrates a **fully autonomous PX4 simulation pipeline** that bypasses external GCS software and directly controls the UAV through MAVLink.
 
+### Demonstration
+*(Watch the autonomous OFFBOARD velocity navigation in action)*
+
+https://github.com/user-attachments/assets/c82d59dd-99e9-4d61-98ac-e1324dc73ca7
+
+
+
+---
+
 The system consists of two primary components:
 
 ### 1. Custom Physics Environment
